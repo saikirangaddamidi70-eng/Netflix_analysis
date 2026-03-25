@@ -1,47 +1,80 @@
-**Netflix Data Analysis Dashboard**
+# 🎬 Netflix Data Analysis
 
-**Overview**
+## 📌 Project Overview
+This project focuses on analyzing Netflix content to uncover trends, patterns, and insights related to movies and TV shows. The goal is to understand content distribution, popularity, and strategic decisions behind Netflix’s catalog.
 
-This project analyzes Netflix movies and TV shows using an interactive dashboard built in Microsoft Power BI. The dashboard helps explore trends in Netflix content, including distribution by type, release year, ratings, and countries.
+---
 
-**Dataset**
+## 🎯 Objectives
+- Analyze distribution of Movies vs TV Shows  
+- Identify content trends over years  
+- Explore country-wise content production  
+- Understand genre popularity  
+- Provide insights for content strategy  
 
-The dataset includes the following fields:
+---
 
-- show_id
-- type (Movie / TV Show)
-- title
-- director
-- cast
-- country
-- date_added
-- release_year
-- rating
-- genre
+## 📂 Dataset Features
+- Show ID  
+- Title  
+- Type (Movie/TV Show)  
+- Director  
+- Cast  
+- Country  
+- Date Added  
+- Release Year  
+- Rating  
+- Duration  
+- Genre (Listed In)  
+- Description  
 
-**Tools Used**
+---
 
-- Microsoft Power BI
-- Microsoft Excel
-- GitHub
+## 🔍 Key Insights
+- Majority of content on Netflix is Movies  
+- Significant growth in content after 2015  
+- United States and India contribute highest content  
+- Popular genres include Drama, Comedy, and Documentaries  
+- TV Shows have increased steadily in recent years  
 
-**Dashboard Features**
+---
 
-- Total number of shows on Netflix
-- Movies vs TV Shows distribution
-- Shows released by year
-- Shows by genre
-- Shows by rating
-- Country-wise distribution of Netflix content
+## 📊 Dashboard Features
+- KPI Cards (Total Titles, Movies, TV Shows)  
+- Content Distribution (Movies vs TV Shows)  
+- Content by Year (Trend Analysis)  
+- Top Countries by Content  
+- Genre Distribution  
+- Ratings Analysis  
+- Duration Analysis  
 
-**Filters**
+---
 
-The dashboard includes interactive filters for:
+## 🛠️ Tools & Technologies
+- Power BI  
+- Excel / CSV  
+- Data Cleaning & Transformation  
+- Data Visualization  
 
-- Show Type
-- Release Year
-- Country
+---
 
-**Conclusion**
+## 💡 Business Recommendations
+- Invest more in high-demand genres (Drama, Comedy)  
+- Increase regional content production  
+- Focus on recent content trends for audience engagement  
+- Expand TV Shows catalog due to growing demand  
 
-This dashboard provides insights into Netflix content trends and helps understand how movies and TV shows are distributed across different years, genres, and countries.
+---
+
+## 📸 Dashboard Preview
+_Add your dashboard screenshot here_
+
+---
+
+## 🚀 Conclusion
+This project highlights how data analysis can reveal content trends and help streaming platforms make informed decisions about production and distribution strategies.
+
+---
+
+## ⭐ Author
+G.Sai Kiran.
