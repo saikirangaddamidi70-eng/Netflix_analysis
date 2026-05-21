@@ -67,7 +67,7 @@ This project focuses on analyzing Netflix content to uncover trends, patterns, a
 ---
 
 ## 📸 Dashboard Preview
-_Add your dashboard screenshot here_
+![Netflix Dashboard](netflix_overview.png)
 
 ---
 
